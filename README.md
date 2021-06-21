@@ -1,5 +1,9 @@
-# React & Framer-motion
+# Pizza Play
 
-[DEMO] https://nifty-visvesvaraya-91d945.netlify.app/
+## stack
+- React 
+- Framer-motion
 
+## DEMO
+https://nifty-visvesvaraya-91d945.netlify.app/
 ![](./preview.gif)
