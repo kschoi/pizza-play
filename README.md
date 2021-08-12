@@ -4,6 +4,6 @@
 - React 
 - Framer-motion
 
-## DEMO
+## preview
 https://nifty-visvesvaraya-91d945.netlify.app/
 ![](./preview.gif)
